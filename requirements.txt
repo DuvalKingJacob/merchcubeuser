@@ -1,0 +1,8 @@
+troposphere>=1.5.0
+awacs
+boto3
+nose
+pylint
+pycodestyle
+pydocstyle
+pytest
